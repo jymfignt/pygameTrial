@@ -13,7 +13,8 @@
 ### 文件目录说明
 
 ```
-filetree 
+filetree
+├── README.md 
 ├── /shot/
 │  ├── /pic/
 │  │  ├── /block/
@@ -30,7 +31,7 @@ filetree
 │  │  └── 4.mp3
 │  ├── /src/
 │  │  ├── main.py
-└── README.md
+└── LICENSE
 ```
 
 ### 来源
